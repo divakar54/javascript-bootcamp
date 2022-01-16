@@ -11,5 +11,6 @@ const generateDiceNumber = () =>{
 }
 
 const diceRollButton= () => {
-
+    const diceRoll = generateDiceNumber();
+    
 }
